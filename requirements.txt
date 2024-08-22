@@ -1,0 +1,5 @@
+gradio==3.23.0
+numpy==1.23.5
+Pillow==9.5.0
+transformers==4.30.2
+torch==2.0.1  # Required by the transformers library for model inference
